@@ -1,0 +1,56 @@
+/* form{
+    margin: 0;
+    padding: 0;
+} */
+
+.form-control{
+    display: flex;
+    flex-direction: row;
+}
+
+.inputCard{
+    width: 530px !important;
+}
+.inputCvc{
+    width: 250px !important;
+}
+.inputAmount{
+    width: 300px !important;
+}
+
+.input-w2{
+    width: 585px !important;
+}
+
+.inputCity{
+    width: 585px !important;
+}
+.inputState{
+    width: 250px !important;
+}
+.inputPostal{
+    width: 250px !important;
+}
+
+ul{
+    list-style:none !important;
+    background-color: rgb(177, 176, 176) !important;
+    width: 280px;
+    height: 60px;
+    justify-content: center;
+    align-items: center; 
+    padding: 0 !important;
+}
+
+li{
+    padding: 0 10px 0 5px;
+}
+
+.textarea{
+    padding: 0 0 0 180px !important;
+}
+
+textarea{
+    width: 605px !important;
+    height: 100px;
+}
